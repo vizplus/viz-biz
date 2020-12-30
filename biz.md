@@ -75,5 +75,4 @@
 **Контакты**:
 
 vizplus@protonmail.com
-
 Телеграм: [для личной переписки](https://t.me/ae_viz_plus), [публичная группа](https://t.me/vizplus).
