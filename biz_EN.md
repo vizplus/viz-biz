@@ -83,4 +83,5 @@ In the VISPLUS Initiative, we are ready to help entrepreneurs in creating and de
 **Contacts**:
 
 e-mail: [vizplus@protonmail.com](mailto:vizplus@protonmail.com),  
-Telegram: [для личной переписки](https://t.me/ae_viz_plus), [публичная группа](https://t.me/vizplus).
+Telegram: [for personal correspondence](https://t.me/ae_viz_plus), [public group](https://t.me/vizplus).
+
