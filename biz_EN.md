@@ -1,4 +1,4 @@
-# How can you create an unique business in VIZ?
+# How can you create a unique business in VIZ?
 
 Some areas of business in VIZ are obvious and do not differ from income generation in other blockchains and digital ecosystems. These include exchange operations (purchase and sale of viz tokens), gateways for payment for goods and services with viz tokens, support for blockchain nodes with income from the issue, etc.
 
@@ -10,13 +10,13 @@ In its simplest form , the interaction of people in VIZ is described by the phra
 
 > John rewarded Mike (that is, increased his social capital).
 
-![первый пример](https://raw.githubusercontent.com/vizplus/viz-biz/main/1.jpg)
+![first example](https://raw.githubusercontent.com/vizplus/viz-biz/main/1.jpg)
 
 If we say it in more detail and correctly, it will turn out like this:
 
 > John ordered the blockchain to allocate a certain number of vizs from the issue and add them to Mike's social capital. Blockchain did it.
 
-![второй пример](https://raw.githubusercontent.com/vizplus/viz-biz/main/2.jpg)
+![second example](https://raw.githubusercontent.com/vizplus/viz-biz/main/2.jpg)
 
 Why did John want to reward Mike? What did he reward for? In what situation did the reward arise? The answer to these questions is the **context of the reward**.
 
@@ -36,7 +36,7 @@ In our example with John and Mike, new elements appear:
 >
 > The bot connected to the group and to both Telegram accounts noticed this and formed a transaction in the VIZ blockchain, in which John's VIZ account orders to the blockchain to allocate a certain number of vizs from the issue and add them to the social capital of Mike's VIZ account. Blockchain did it.
 
-![третий пример](https://raw.githubusercontent.com/vizplus/viz-biz/main/3.jpg)
+![third example](https://raw.githubusercontent.com/vizplus/viz-biz/main/3.jpg)
 
 An entrepreneur in VIZ just organizes the creation of applications such as this bot. That is, he finds the context of using social capital and offers users to connect their VIZ accounts to this context. There are a lot of situations in life when one person encourages or thanks another for something, which means that they can be translated into the VIZ language.
 
@@ -52,7 +52,7 @@ So, let's turn to our heroes for the last time - with all the explanations:
 >
 > The bot connected to the group and to both Telegram accounts noticed this and formed a transaction in the VIZ blockchain, in which John's VIZ account orders to the blockchain to allocate a certain number of vizs from the issue and add 90% of them to the social capital of Mike's VIZ account, and 10% to the social capital of the bot's author. Blockchain did it.
 
-![четвёртый пример](https://raw.githubusercontent.com/vizplus/viz-biz/main/4.jpg)
+![fourth example](https://raw.githubusercontent.com/vizplus/viz-biz/main/4.jpg)
 
 If, with the development of the ecosystem and the growth of the token price, the average income from a transaction in such a service will be at least about 0.5 cents (in viz tokens), then it is enough for the service to connect several thousand active users to have an income of hundreds of dollars a day.
 
@@ -83,5 +83,5 @@ In the VISPLUS Initiative, we are ready to help entrepreneurs in creating and de
 **Contacts**:
 
 e-mail: [vizplus@protonmail.com](mailto:vizplus@protonmail.com),  
-Telegram: [for personal correspondence](https://t.me/ae_viz_plus), [public group](https://t.me/vizplus).
+Telegram: [for personal communication](https://t.me/ae_viz_plus), [public group](https://t.me/vizplus).
 
