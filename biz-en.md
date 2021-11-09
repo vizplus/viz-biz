@@ -1,12 +1,12 @@
 # How can you create a unique business in VIZ?
 
-Some areas of business in VIZ are obvious and do not differ from income generation in other blockchains and digital ecosystems. These include exchange operations (purchase and sale of viz tokens), gateways for payment for goods and services with viz tokens, support for blockchain nodes with income from the issue, etc.
+Some areas of business in VIZ are obvious and do not differ from income generation in other blockchains and digital ecosystems. These include exchange operations (purchase and sale of viz tokens), gateways for payment for goods and services with viz tokens, support for blockchain nodes with income from the emission, etc.
 
-However, a truly unique and interesting business in VIZ using social capital can be built around creating applications that provide *context for awards*, and receiving *beneficial payments* from users of these applications. Let's try to decipher it.
+However, a truly unique and interesting business in VIZ using Social Capital can be built around creating applications that provide *context for awards*, and receiving *beneficiar part* from users of these applications. Let's try to explain it simply.
 
 ## Context of the award
 
-In its simplest form , the interaction of people in VIZ is described by the phrase:
+In its simplest form, the interaction of people in VIZ is described by the phrase:
 
 > John rewarded Mike (that is, increased his social capital).
 
@@ -14,7 +14,7 @@ In its simplest form , the interaction of people in VIZ is described by the phra
 
 If we say it in more detail and correctly, it will turn out like this:
 
-> John ordered the blockchain to allocate a certain number of vizs from the issue and add them to Mike's social capital. Blockchain did it.
+> John ordered the blockchain to allocate a certain number of viz from the emission and add them to Mike's social capital. Blockchain did it.
 
 ![second example](https://raw.githubusercontent.com/vizplus/viz-biz/main/2.jpg)
 
@@ -28,29 +28,29 @@ Perhaps John thanked Mike by writing "thank you" in response to his Telegram mes
 
 In order for the award to take place, a certain application must work. Such an application can be a browser extension, a social network site, a bot in a messenger, a mobile application on a phone or any other program.
 
-This program intercepts John's action (like, voice, thank you) in the appropriate context, translates it into a special command and sends it to the blockchain on behalf of John. Of course, John must first grant the application the right to act on his own behalf.
+This program intercepts John's action (like, vote, thank you) in the appropriate context, translates it into a special command and sends it to the blockchain on behalf of John. Of course, John must first grant the application the right to act on his own behalf.
 
 In our example with John and Mike, new elements appear:
 
 > John wrote «Thank you» in a comment to Mike's message in the group in the Telegram.
 >
-> The bot connected to the group and to both Telegram accounts noticed this and formed a transaction in the VIZ blockchain, in which John's VIZ account orders to the blockchain to allocate a certain number of vizs from the issue and add them to the social capital of Mike's VIZ account. Blockchain did it.
+> The bot connected to the group and to both Telegram accounts noticed this and formed a transaction in the VIZ blockchain, in which John's VIZ account orders to the blockchain to allocate a certain number of viz from the emission and add them to the social capital of Mike's VIZ account. Blockchain did it.
 
 ![third example](https://raw.githubusercontent.com/vizplus/viz-biz/main/3.jpg)
 
 An entrepreneur in VIZ just organizes the creation of applications such as this bot. That is, he finds the context of using social capital and offers users to connect their VIZ accounts to this context. There are a lot of situations in life when one person encourages or thanks another for something, which means that they can be translated into the VIZ language.
 
-Applications can be multifunctional, that is, they work out several different contexts. For example, a plugin to a browser that is configured for dozens of sites, or a mobile application that reads any QR codes with awards (such QR code can be displayed on the TV screen, and  on a badge of a waiter, and on a hairdresser's business card, so there are many variants of context). And there are also narrowly focused ones - only for one context. For example, a mobile dating application in which a positive swipe is accompanied by a reward to a potential partner.
+Applications can be multifunctional, that is, they work out several different contexts. For example, a plugin to a browser that is configured for dozens of sites, or a mobile application that reads any QR codes with awards (such QR code can be displayed on the TV screen, and  on a badge of a waiter, and on a hairdresser's business card, so there are many variants of context). And there are also narrowly focused ones — only for one context. For example, a mobile dating application in which a positive swipe is accompanied by a reward to a potential partner.
 
-## Beneficial payments
+## Payments to beneficiaries
 
-The income of the application owner is formed from beneficial payments. The VIZ blockchain has a built-in reward sharing system: an order to the blockchain can be made so that the reward from John will automatically go to two addresses: part to Mike and part to the beneficiary, for example, the author of the application. The beneficiary can withdraw the received social capital into tokens and sell them, or use it for their own purposes directly in the VIZ.
+The income of the application owner is formed from beneficiar part. The VIZ blockchain has a built-in reward sharing system: an order to the blockchain can be made so that the reward from John will automatically go to two addresses: part to Mike and part to the beneficiary, for example, the author of the application. The beneficiary can withdraw the received social capital into tokens and sell them, or use it for their own purposes directly in the VIZ.
 
 So, let's turn to our heroes for the last time - with all the explanations:
 
 > John wrote «Thank you» in a comment to Mike's message in the group in the Telegram. 
 >
-> The bot connected to the group and to both Telegram accounts noticed this and formed a transaction in the VIZ blockchain, in which John's VIZ account orders to the blockchain to allocate a certain number of vizs from the issue and add 90% of them to the social capital of Mike's VIZ account, and 10% to the social capital of the bot's author. Blockchain did it.
+> The bot connected to the group and to both Telegram accounts noticed this and formed a transaction in the VIZ blockchain, in which John's VIZ account orders to the blockchain to allocate a certain number of vizs from the emission and add 90% of them to the social capital of Mike's VIZ account, and 10% to the social capital of the bot's author. Blockchain did it.
 
 ![fourth example](https://raw.githubusercontent.com/vizplus/viz-biz/main/4.jpg)
 
