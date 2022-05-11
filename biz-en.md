@@ -12,13 +12,11 @@ In its simplest form, the interactions of users in VIZ are described by the phra
 
 <img src="https://raw.githubusercontent.com/vizplus/viz-biz/main/1.jpg" width="500" />
 
-![first example](https://raw.githubusercontent.com/vizplus/viz-biz/main/1.jpg)
-
 If the phrase were to be outlined in greater detail and with a higher degree of conciseness, it would read as follows:
 
 > John instructed the blockchain to extract a certain number of viz tokens from the total supply and add them to Mike's social capital. The blockchain does the rest.
 
-![second example](https://raw.githubusercontent.com/vizplus/viz-biz/main/2.jpg)
+<img src="https://raw.githubusercontent.com/vizplus/viz-biz/main/2.jpg" width="500" />
 
 Why did John want to reward Mike? What did he reward Mike for? What was the context of the situation that resulted in the reward? The answers to these questions are prescribed within **the context of the reward**.
 
@@ -38,7 +36,7 @@ In our example with John and Mike, new elements come into play:
 > 
 > A bot connected to the group and both Telegram accounts noticed this and generated a transaction in the VIZ blockchain, in which John’s VIZ account instructs the blockchain to extract a certain number of viz tokens from the total supply and add them to the social capital of Mike’s VIZ account. The blockchain does the rest.
 
-![third example](https://raw.githubusercontent.com/vizplus/viz-biz/main/3.jpg)
+<img src="https://raw.githubusercontent.com/vizplus/viz-biz/main/3.jpg" width="500" />
 
 The entrepreneur operating on VIZ is the one who ensures the creation of applications, such as the bot in the aforementioned example. It is the entrepreneur who finds the context for the use of social capital and offers users to connect their VIZ accounts to this context. There are many situations in life when one person encourages or thanks another for something, which means that such actions can be translated into the language used by VIZ.
 
@@ -54,7 +52,7 @@ Now let us return to the heroes of our discourse by taking into account all the 
 >
 > The bot connected to the group, and to both users’ Telegram accounts, noticed the action and generated a transaction in the VIZ blockchain. John’s VIZ account then instructs the blockchain to allocate a certain amount of viz tokens from the supply and add 90% of them to the social capital of Mike’s VIZ account, and 10 % to the social capital of the author of the bot. The blockchain does the rest.
 
-![fourth example](https://raw.githubusercontent.com/vizplus/viz-biz/main/4.jpg)
+<img src="https://raw.githubusercontent.com/vizplus/viz-biz/main/4.jpg" width="500" />
 
 If, with the development of the ecosystem and the growth of the price of the token, the average income per transaction in such a service will be at least about 0.5 cents (in viz token equivalent), then it is enough for the service to connect several thousand active users in order to generate income amounting to hundreds of dollars a day.
 
