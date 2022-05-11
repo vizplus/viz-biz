@@ -10,6 +10,8 @@ In its simplest form, the interactions of users in VIZ are described by the phra
 
 > John rewarded Mike (that is, increased his social capital).
 
+<img src="https://raw.githubusercontent.com/vizplus/viz-biz/main/1.jpg" width="500" />
+
 ![first example](https://raw.githubusercontent.com/vizplus/viz-biz/main/1.jpg)
 
 If the phrase were to be outlined in greater detail and with a higher degree of conciseness, it would read as follows:
